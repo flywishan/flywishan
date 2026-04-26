@@ -1,34 +1,48 @@
 <div align="center">
 
-# ISHAAN ✨
-### code, chaos & caffeine
+# Samarth // code, chaos & caffeine
 
-<p>
-  <a href="https://github.com/flywishan">GitHub</a> •
-  <a href="https://discord.com/users/YOUR_ID">Discord</a> •
-  <a href="mailto:yourmail@gmail.com">Mail</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Python+Developer;CTF+Player;AI+Explorer;Cyber+Enthusiast" />
 
----
+<br>
 
-### 🧠 About Me
-- 💻 Learning Python & Web Dev
-- 🎨 Building aesthetic websites
-- ⚡ Working on stqrkvi
+<a href="https://github.com/flywishan">GitHub</a> •
+<a href="https://discord.com/users/YOUR_ID">Discord</a> •
+<a href="mailto:yourmail@gmail.com">Mail</a>
+
+</div>
 
 ---
 
-### 🚀 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+## 
+
+<div align="center">
+
+### 🧠 About
+`idk`
+
+</div>
 
 ---
 
-### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=flywishan&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=flywishan&theme=tokyonight)
+## ⚡ Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=flywishan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=flywishan&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧩 Projects / Cards
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=flywishan&repo=stqrkvi&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=flywishan&repo=giga&theme=tokyonight&hide_border=true" />
 
 </div>
