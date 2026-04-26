@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://lanyard.cnrad.dev/api/867633787529986048?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=10px" />
+<img src="https://lanyard-profile-readme.vercel.app/api/867633787529986048?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=12px" />
 
 <br>
 
