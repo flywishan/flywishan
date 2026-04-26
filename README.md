@@ -1,5 +1,9 @@
 <div align="center">
+<div align="center">
 
+<img src="https://lanyard.cnrad.dev/api/867633787529986048?theme=dark&bg=000000&animated=true" />
+
+</div>
 # ISHAAN
 
 <sub>code • design • late nights</sub>
