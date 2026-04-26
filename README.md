@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h2 align="center">Samarth // code, chaos & caffeine</h2>
+<h2 align="center">ISHAAN</h2>
 
 <p align="center">
   <code>Python Developer</code> • <code>CTF Player</code> • <code>AI Explorer</code> • <code>Cyber Enthusiast</code>
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=antixcodes&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=flywishan&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
