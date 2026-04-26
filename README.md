@@ -1,44 +1,36 @@
-<div align="center">
-
-# ISHAAN
-
-<sub>code • design • late nights</sub>
-
-<br>
-
-<img src="https://lanyard-profile-readme.vercel.app/api/867633787529986048?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=12px" />
-
-<br>
-
-<a href="https://github.com/flywishan">github</a> /
-<a href="https://stqrkvi.lol/portfolio/">portfolio</a> /
-<a href="https://discord.com/users/867633787529986048">discord</a>
-
-</div>
-
----
-
-### about
-- building aesthetic web experiences  
-- working with html, css & js  
-- exploring ideas, not just code  
-
----
-
-### stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github" />
 </p>
 
----
+<h2 align="center">Samarth // code, chaos & caffeine</h2>
 
-### stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=flywishan&show_icons=true&theme=dark&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=flywishan&theme=dark&hide_border=true" height="150"/>
+  <code>Python Developer</code> • <code>CTF Player</code> • <code>AI Explorer</code> • <code>Cyber Enthusiast</code>
 </p>
 
----
+<br/>
 
-### current focus
-> making things look better than they need to be
+<p align="center">
+  <a href="https://github.com/antixcodes">GitHub</a> •
+  <a href="https://discord.com/users/773849193587539968">Discord</a> •
+  <a href="shadowdevx@tech.me">Mail</a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1460686747615629547?idleMessage=Idk" alt="Discord status">
+</p>
+
+<h3 align="center"> Stats </h3>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=antixcodes&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <em>"Tools break. I don’t."</em>
+</p>
