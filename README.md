@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**flywishan/flywishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ISHAAN ✨
+### code, chaos & caffeine
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://github.com/flywishan">GitHub</a> •
+  <a href="https://discord.com/users/YOUR_ID">Discord</a> •
+  <a href="mailto:yourmail@gmail.com">Mail</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 💻 Learning Python & Web Dev
+- 🎨 Building aesthetic websites
+- ⚡ Working on stqrkvi
+
+---
+
+### 🚀 Tech Stack
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+---
+
+### 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=flywishan&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=flywishan&theme=tokyonight)
+
+</div>
