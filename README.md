@@ -12,13 +12,13 @@
 <p align="center">
   <a href="https://github.com/antixcodes">GitHub</a> •
   <a href="https://discord.com/users/773849193587539968">Discord</a> •
-  <a href="shadowdevx@tech.me">Mail</a>
+  <a href="mailto:shadowdevx@tech.me">Mail</a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1460686747615629547?idleMessage=Idk" alt="Discord status">
+  <img src="https://lanyard.cnrad.dev/api/867633787529986048?idleMessage=Idk&theme=dark&bg=0d0d0d" alt="Discord status">
 </p>
 
 <h3 align="center"> Stats </h3>
