@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/antixcodes">GitHub</a> •
+  <a href="https://github.com/flywishaan">GitHub</a> •
   <a href="https://discord.com/users/773849193587539968">Discord</a> •
   <a href="mailto:shadowdevx@tech.me">Mail</a>
 </p>
